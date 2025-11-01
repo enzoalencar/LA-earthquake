@@ -9,5 +9,7 @@ dependencies = [
     "ipykernel>=7.0.1",
     "kagglehub>=0.3.13",
     "matplotlib>=3.10.6",
+    "scikit-learn>=1.7.2",
     "seaborn>=0.13.2",
+    "tensorflow>=2.20.0",
 ]
